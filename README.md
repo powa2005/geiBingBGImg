@@ -9,6 +9,7 @@
 ## 运行
 
 1. npm start
+2. 浏览器访问[http://localhost:3000/getBingBGImg](http://localhost:3000/getBingBGImg)
 
 
 [详情](http://blog.xiangfengw.com/2016/08/16/20160816)
