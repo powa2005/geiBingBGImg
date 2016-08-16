@@ -1,0 +1,15 @@
+{
+  "name": "getBingBGImg",
+  "version": "1.0.0",
+  "description": "getBingBGImg",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor ./"
+  },
+  "author": "xiangfengw",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "request": "^2.74.0"
+  }
+}
